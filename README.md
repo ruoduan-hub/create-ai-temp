@@ -58,6 +58,8 @@ templates/preset   预设模式叠加的前端工程和技术栈规则
 
 ## 发布
 
+推送到 `master` 分支后，GitHub Actions 会依次执行静态检查、测试和构建，并在当前版本尚未发布时通过 npm Trusted Publishing 发布。首次发布后，需要在 npm 包设置中将 `ruoduan-hub/create-ai-temp` 的 `publish.yml` 配置为可信发布者；发布新版本前先更新 `package.json` 中的版本号。
+
 ```bash
 npm pack --dry-run
 npm publish
