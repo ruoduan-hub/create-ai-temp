@@ -10,7 +10,7 @@
 [![Node.js version](https://img.shields.io/node/v/create-ai-temp?logo=node.js)](https://www.npmjs.com/package/create-ai-temp)
 [![License](https://img.shields.io/npm/l/create-ai-temp)](https://github.com/ruoduan-hub/create-ai-temp/blob/master/LICENSE)
 
-English · [简体中文](https://github.com/ruoduan-hub/create-ai-temp/blob/master/README.zh-CN.md)
+English · [简体中文](https://github.com/ruoduan-hub/create-ai-temp/blob/master/docs/README.zh-CN.md)
 
 </div>
 
