@@ -1,0 +1,2 @@
+# 复制为 .env.local，并只填写非敏感示例说明。
+# NEXT_PUBLIC_API_BASE_URL=https://example.com

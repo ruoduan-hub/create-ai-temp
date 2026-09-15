@@ -1,0 +1,6 @@
+---
+description: 项目统一 AI 协作入口
+alwaysApply: true
+---
+
+开始任务前读取 `AGENTS.md` 和 `.agent/README.md`。根据任务读取 `.agent/rules/`、`.agent/context/`、`.agent/workflows/`，并在存在时遵守 `.agent/stack/` 中的技术栈增量规则。

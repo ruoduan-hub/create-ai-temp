@@ -1,0 +1,8 @@
+import { defineConfig } from "vitest/config";
+
+export default defineConfig({
+  test: {
+    exclude: ["templates/**", "node_modules/**"],
+    coverage: { reporter: ["text", "html"] },
+  },
+});
