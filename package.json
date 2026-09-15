@@ -4,7 +4,7 @@
   "description": "面向 AI 协作与现代前端工程的项目模板生成器",
   "type": "module",
   "bin": {
-    "create-ai-temp": "./dist/index.js"
+    "create-ai-temp": "dist/index.js"
   },
   "files": [
     "dist",
